@@ -1,5 +1,14 @@
-# Multi-agent Reinforcement Learning and Agentic AI
+# 🚀 Welcome to the Multi-Agent Reinforcement Learning & Agentic AI Course! 🤖🧠
 
+This repository will be your central hub for all course materials, including:
+
+- 📜 Lecture Slides & Notes: Access all presentation materials and supplementary notes here.
+- 💻 Code & Tutorials: Find Jupyter notebooks, Python scripts, and practical examples to help you grasp key concepts and implement algorithms.
+- 📚 Reading Materials: Links to relevant research papers, book chapters, and other useful resources.
+
+This course focuses on multi-agent systems, how reinforcement learning drives intelligent decision-making in complex settings, and the emerging area of agentic AI. We will cover core theories, recent research advancements, and their practical applications.
+
+---
 ## Topics covered: 
 Topic 1: MARL
 - RL (MDP, Value iteration, Policy iteration, Q-learning)
@@ -14,6 +23,8 @@ Topic 2: Agentic AI
 - Intro to LLM agents, group chat, MCP
 - Planning and Control
 - Agentic software development
+
+---
 
 ## Resources: 
 ### RL: 
