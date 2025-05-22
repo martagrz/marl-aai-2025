@@ -1,1 +1,1 @@
-# marl-aai-2025
+# Multi-agent Reinforcement Learning and Agentic AI
